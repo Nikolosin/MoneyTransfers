@@ -7,4 +7,6 @@ fun main() {
     val minCommission = 35.0
     val commission = (max(minCommission, amount*0.0075)).toInt()
     println("Комиссия составит $commission руб.")
+    println("Комиссия составит $commission руб.")
+
 }
